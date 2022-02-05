@@ -1,0 +1,8 @@
+Assalamu'alaikum Warahmatullahi Wabarakatuh...
+Sebelum Menggunakan Web Ini Alangkah Baiknya Melakukan Konfigurasi Pada Database  Agar Tidak Terjadi Error Pada Php Nya...
+1. Buka Xampp Lalu Start Apache Dan MySQL
+2. Klik Admin Pada MySql Maka Akan Di Alihkan Ke Php My Admin. 
+3. Buat Database Baru Dengan Nama "arvinmuhammadajif" Tanpa Tanda Kutip.
+4. Setelah Itu Pilih Database "arvinmuhammadajif".
+5. Lalu Pergi Ke Impor Lalu Pilih File"arvinmuhammadajif FIX.sql" Lalu Kirim
+6. Setelah Itu Silahkan Gunakan Website Ini.
